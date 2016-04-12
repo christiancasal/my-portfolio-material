@@ -5,6 +5,9 @@
 .cc-navbar{
   background-color: #607d8b;
 }
+#title{
+	font-size: 20pt;
+}
 #dropdown-font-color{
   color: #ab47bc;
 }
