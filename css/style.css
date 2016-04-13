@@ -21,6 +21,13 @@
   background: black;
   height: 350px;
 }
+.parallax-container{
+	height: 500px;
+}
+#captionHeader{
+	opacity: 0;
+	color: #fff;
+}
 #cc-footer{
   background-color: #607d8b;
 }
@@ -38,7 +45,6 @@
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
 }
-
 .linkToMeIcons:hover{  
     opacity: 1;
 
